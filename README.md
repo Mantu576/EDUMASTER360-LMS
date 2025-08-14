@@ -2,7 +2,12 @@
 
 A comprehensive MERN-based Learning Management System designed to streamline administrative, academic, and communication tasks within an educational institution. Built with role-based access for **Admin**, **Teachers**, and **Students**, the platform offers powerful tools to manage assignments, notes, attendance, student performance, and more.
 
+---
 
+## 🚀 Live Demo
+[![Live Demo](https://img.shields.io/badge/View-Demo-brightgreen?style=for-the-badge)](https://edumaster-360-lms-2ysz.vercel.app/)
+
+---
 
 ## 📌 Table of Contents
 
@@ -111,6 +116,7 @@ npm start
 ![Screenshot 2024-11-09 213020](https://github.com/user-attachments/assets/644c6764-a5fe-4080-81b2-b86b26c26fd4)
 ![Screenshot 2024-11-06 211200](https://github.com/user-attachments/assets/119b5d90-b118-460b-aaf5-cd624fd1cebc)
 ![Screenshot 2024-11-09 213431](https://github.com/user-attachments/assets/3fa8fe95-598b-42d9-86c3-1a417c43116c)
+
 
 
 
